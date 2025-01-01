@@ -20,7 +20,6 @@
 
 - 🛠️Currently leading innovative projects and delivering cutting-edge digital solutions as part of [Technophiles Digital Agency](https://technophiles.website/).
 
-- 📖 Technical Writer: Sharing web development insights and tutorials through blogs on DEV Community.
 - 💻 Visit my [Portfolio](https://shamalatif.website/) for more details about me.
 <!--End Intro-->
 
@@ -33,7 +32,7 @@
 
 
 <!--Languages and Tools Section-->       
-<h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ & Lᴀᴛᴇsᴛ ʙʟᴏɢs</h2> 
+<h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ & Lᴀᴛᴇsᴛ Projects</h2> 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
   <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
@@ -51,8 +50,8 @@
 <h3 align="left">Latest Projects</h3>
 <ul align="left">
   <li><a href="https://technophiles.website/">🚀Technophiles Digital Agency a web plat form providing digital services.🔖</a></li>
-  <li><a href="https://nextbazar.store/">🧙‍♂️I developed an eCommerce store named NextBazar, specializing in digital and home appliances. </a></li>
-  <li><a href="https://dubaidesert.online/">🚀 I developed the website for the Dubai Desert Tourist Company, featuring a user-friendly experience and an amazing design.</a></li>
+  <li><a href="https://nextbazar.store/">🧙‍♂️ NextBazar eCommerce store Development with Payment gateway </a></li>
+  <li><a href="https://dubaidesert.online/">🚀 I developed the website for the Dubai Desert Tourist Company</a></li>
 </ul>
 <br />
 <br />
