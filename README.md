@@ -1,5 +1,4 @@
 
-![Kiran1689 Banner Image](./banner.png)
 
 <!--Night Owl image-->
 <div>
@@ -28,9 +27,6 @@
   <img src="https://komarev.com/ghpvc/?username=Kiran1689&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="Kiran1689" style="padding-right:20px;" />
 </p>
 
----
-
-
 <!--Languages and Tools Section-->       
 <h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ & Lᴀᴛᴇsᴛ Projects</h2> 
 <picture>
@@ -49,53 +45,29 @@
   
 <h3 align="left">Latest Projects</h3>
 <ul align="left">
-  <li><a href="https://technophiles.website/">🚀Technophiles Digital Agency a web plat form providing digital services.🔖</a></li>
+  <li><a href="https://technophiles.website/">🚀Technophiles Digital Agency a web plat form providing digital services.</a></li>
   <li><a href="https://nextbazar.store/">🧙‍♂️ NextBazar eCommerce store Development with Payment gateway </a></li>
-  <li><a href="https://dubaidesert.online/">🚀 I developed the website for the Dubai Desert Tourist Company</a></li>
+  <li><a href="https://dubaidesert.online/">🔖I developed the website for the Dubai Desert Tourist Company</a></li>
 </ul>
-<br />
-<br />
-<br />
-<br />
 
-
-<!--Trophies Section-->   
-
-<!--Github stats Table--> 
-<!--Contact Section--> 
-
-<h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
-<div align="center">
-  
-<a href="mailto:shama.pakiza11@gmail.com" target="_blank">
-<img src="./gmail.png" width=50 height=50 alt="shama.pakiza11@gmail.com" style="margin-bottom: 5px;" />
-</a>
-
-
-<a href="https://www.instagram.com/kiran_a_n" target="_blank">
-<img src="./instagram.png" width=50 height=50 alt="kiran_a_n" style="margin-bottom: 5px;" />
-</a>
-
-<a href="https://github.com/shamaaa11" target="_blank">
-<img src="./github.png" width=50 height=50 alt="Kiran1689" style="margin-bottom: 5px;" />
-</a>
-
-<a href="https://www.linkedin.com/in/shama-latif-profile/" target="_blank">
-<img src="./linkedin.png" width=50 height=50 alt="linkedin" style="margin-bottom: 5px;" />
-</a>
-
-<a href="https://dev.to/dev_kiran" target="_blank">
-<img src="./dev_to.png" width=50 height=50 alt="dev_kiran" style="margin-bottom: 5px;" />
-</a>
+### Connect with me:
+<div id="badges">
+  <a href="https://github.com/shamaaa11">
+    <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
+  </a>
+   <a href="https://www.linkedin.com/in/shama-latif-profile/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Github Badge"/>
+  </a>
+  <a href="https://www.youtube.com/@Teamtechnophiles">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+   <a href="https://www.instagram.com/itx_technophiles/?hl=en">
+    <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
+   <a href="https://www.facebook.com/profile.php?id=100092732605395">
+    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
+  </a>
 </div>
-<br/>
-
-
-
-<!--Footer--> 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
-</p>
 
 
 
