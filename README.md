@@ -14,13 +14,13 @@
 <p align="left"> Frontend Developer||Website Manager || Wordpress Development || Web designer || Ecommerce Store Development*
 <br />  </p>
 
-- ✨ Student of life :)
-- 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
-- 💁‍♂️ Trusted member and Moderator at [DEV Community](https://dev.to)
-- 🏙 A lifetime insider and Mentor at [Exercism](https://exercism.org/profiles/Kiran1689).
-- ✍ I write technical blogs, You can visit my blog site at [DEV](https://dev.to/dev_kiran).
-- ❤ Contributing to Open Source.
-- 💻 Visit my [Portfolio](https://kiran1689.github.io) for more details about me.
+💻 Web Development Specialist: Crafting modern, responsive, and performance-driven websites with expertise in frontend, backend, and WordPress development.
+🌐 Freelancer and Digital Creator: Designing and managing bespoke e-commerce solutions and user-friendly interfaces for clients worldwide.
+🛠️ Technophiles Digital Agency: Currently leading innovative projects and delivering cutting-edge digital solutions as part of Technophiles Digital Agency.
+✨ Community Contributor: Active mentor and insider at Exercism, helping developers refine their programming skills.
+📖 Technical Writer: Sharing web development insights and tutorials through blogs on DEV Community.
+🌟 GitHub Enthusiast: Showcasing a portfolio of high-quality projects and collaborating with developers to create impactful solutions.
+- 💻 Visit my [Portfolio](https://shamalatif.website/) for more details about me.
 <!--End Intro-->
 
 <!--Profile Count Badge-->
@@ -42,16 +42,16 @@
 
 <h3 align="left">Current Learning</h3>
 <ul align="left">
-  <li>Deepening my knowledge in Machine Learning and AI.</li>
-  <li>Exploring advanced React.js patterns and state management techniques.</li>
-  <li>Improving my skills in cloud computing with AWS and Azure.</li>
+  <li>Deepening my knowledge in Web Development.</li>
+  <li>Exploring advanced Nodejs and Database management techniques.</li>
+  <li>Improving my skills in Web devlopment</li>
 </ul>
   
 <h3 align="left">Latest Projects</h3>
 <ul align="left">
   <li><a href="https://technophiles.website/">🚀Technophiles Digital Agency a web plat form providing digital services.🔖</a></li>
   <li><a href="https://nextbazar.store/">🧙‍♂️I developed an eCommerce store named NextBazar, specializing in digital and home appliances. </a></li>
-  <li><a href="https://dubaidesert.online/">🚀 I developed the website for the Dubai Desert Tourist Company, featuring a user-friendly experience and an amazing design. that showcases the best features of our desert safari offerings.</a></li>
+  <li><a href="https://dubaidesert.online/">🚀 I developed the website for the Dubai Desert Tourist Company, featuring a user-friendly experience and an amazing design.</a></li>
 </ul>
 <br />
 <br />
@@ -90,10 +90,6 @@
 </div>
 <br/>
 
-<!--Buy me a coffee-->
-<div align="center">
-<a href="" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Get MOre Services="height: 40px !important;width: 200px !important;" ></a>
-</div>
 
 
 <!--Footer--> 
