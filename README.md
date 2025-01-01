@@ -14,12 +14,12 @@
 <p align="left"> Frontend Developer||Website Manager || Wordpress Development || Web designer || Ecommerce Store Development*
 <br />  </p>
 
-💻 Web Development Specialist: Crafting modern, responsive, and performance-driven websites with expertise in frontend, backend, and WordPress development.
-🌐 Freelancer and Digital Creator: Designing and managing bespoke e-commerce solutions and user-friendly interfaces for clients worldwide.
-🛠️ Technophiles Digital Agency: Currently leading innovative projects and delivering cutting-edge digital solutions as part of Technophiles Digital Agency.
-✨ Community Contributor: Active mentor and insider at Exercism, helping developers refine their programming skills.
-📖 Technical Writer: Sharing web development insights and tutorials through blogs on DEV Community.
-🌟 GitHub Enthusiast: Showcasing a portfolio of high-quality projects and collaborating with developers to create impactful solutions.
+-💻 Web Development Specialist: Crafting modern, responsive, and performance-driven websites with expertise in frontend, backend, and WordPress development.
+-🌐 Freelancer and Digital Creator: Designing and managing bespoke e-commerce solutions and user-friendly interfaces for clients worldwide.
+-🛠️ Technophiles Digital Agency: Currently leading innovative projects and delivering cutting-edge digital solutions as part of Technophiles Digital Agency.
+-✨ Community Contributor: Active mentor and insider at Exercism, helping developers refine their programming skills.
+-📖 Technical Writer: Sharing web development insights and tutorials through blogs on DEV Community.
+-🌟 GitHub Enthusiast: Showcasing a portfolio of high-quality projects and collaborating with developers to create impactful solutions.
 - 💻 Visit my [Portfolio](https://shamalatif.website/) for more details about me.
 <!--End Intro-->
 
