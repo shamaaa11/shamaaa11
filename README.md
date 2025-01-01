@@ -13,13 +13,15 @@
 <p align="left"> Frontend Developer||Website Manager || Wordpress Development || Web designer || Ecommerce Store Development*
 <br />  </p>
 
-- 💻 Web Development Specialist: Crafting modern, responsive, and performance-driven websites with expertise in frontend, backend, and WordPress development.
+- 💻 Web Development Specialist: Crafting modern, responsive, and performance-driven websites
 
-- 🌐 Freelancer and Digital Creator: Designing and managing e-commerce solutions and user-friendly interfaces for clients worldwide.
+- 🌐 Freelancer and Digital Creator: Designing and managing e-commerce solutions  for clients worldwide.
 
 - 🛠️Currently leading innovative projects and delivering cutting-edge digital solutions as part of [Technophiles Digital Agency](https://technophiles.website/).
 
 - 💻 Visit my [Portfolio](https://shamalatif.website/) for more details about me.
+- 📫 How to reach me: shama.pakiza11@gmail.com
+
 <!--End Intro-->
 
 <!--Profile Count Badge-->
